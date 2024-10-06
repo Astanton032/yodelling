@@ -1,0 +1,22 @@
+h1{
+    color:darksalmon;
+    background-color: darkslategray
+;    
+}
+
+*{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    font-family:"Dancing script",cursive;
+}
+
+
+img{
+    height: 250px;
+    width: 250px;
+    background-color: burlywood;
+}
+
+ }
